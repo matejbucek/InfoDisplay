@@ -1,3 +1,9 @@
 [submodule "lib/raylib"]
 	path = lib/raylib
 	url = git@github.com:raysan5/raylib
+[submodule "lib/rsocket-cpp"]
+	path = lib/rsocket-cpp
+	url = https://github.com/rsocket/rsocket-cpp.git
+[submodule "lib/folly"]
+	path = lib/folly
+	url = https://github.com/facebook/folly

@@ -1,7 +1,7 @@
 #include "raylib.h"
 
 int main() {
-    InitWindow(800, 450, "raylib [core] example - basic window");
+    InitWindow(800, 450, "InfoDisplay");
 
     while (!WindowShouldClose())
     {
